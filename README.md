@@ -1,4 +1,4 @@
-﻿# Sublime Text 3 PHPUnit Skelgen plugin
+﻿# Sublime Text 3 Latin1 chars to ASCII translate 
 
 ### Plugin installation (Linux):
 ```
