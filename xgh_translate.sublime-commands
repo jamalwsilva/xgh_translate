@@ -1,0 +1,8 @@
+
+[
+    {
+        "caption": "XGHWINS: Translate latin1 to ASCII",
+        "command": "xgh_translate",
+        "args": {}
+    }
+]
